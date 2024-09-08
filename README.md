@@ -15,6 +15,7 @@ Here are some samples of the brushes you'll find...
 
 ## The Blender add-on
 I've also created an add-on for Blender that lets you import a bunch of images (like the texture brushes) as textures. I used the imfamous "import images as planes" add-on for reference.
+
 https://docs.blender.org/manual/en/latest/addons/import_export/images_as_planes.html
 
 This one is "import images as textures" and has some properties that are appropriate for this workflow. You can use it to import the brushes from this collection and then use those brushes to do some awesome texture painting. 
