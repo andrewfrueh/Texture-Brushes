@@ -7,7 +7,7 @@ The brushes in this collection were all painstakingly... um, lovinging, made by 
 
 The brushes are available at multiple resolutions (1k, 2k, 4k). Beware that this kind of work is very GPU intensive, so make sure you import brushes that are appropriate for your hardware.
 
-!(Texture-Brushes/Brush-Images/0.1k/1_a.png)
+![brush image](Texture-Brushes/Brush-Images/0.1k/1_a.png)
 
 ## The Blender add-on
 I've also created an add-on for Blender that lets you import a bunch of images (like the texture brushes) as textures. I used the imfamous "import images as planes" add-on for reference.
