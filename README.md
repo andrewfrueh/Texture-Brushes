@@ -5,9 +5,11 @@ This repo has a starter-kit collection of texture brushes and a Blender add-on f
 ## The brushes
 The brushes in this collection were all painstakingly... um, lovinging, made by me. I created them by painting with ink on paper, then scanning, levingling, cropping, exporting, etc.
 
-The brushes are available at multiple resolutions (1k, 2k, 4k). Beware that this kind of work is very GPU intensive, so make sure you import brushes that are appropriate for your hardware.
+The brushes are available at multiple resolutions (0.1k, 1k, 4k). Beware that this kind of work is very GPU intensive, so make sure you import brushes that are appropriate for your hardware.
 
-![brush image](/Brush-Images/0.1k/1_a.png)
+Here are some samples of the brushes you'll find...
+
+![brush image](/Brush-Images/0.1k/1_a.png)|![brush image](/Brush-Images/0.1k/1_b.png)
 
 
 
