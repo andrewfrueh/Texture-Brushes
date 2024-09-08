@@ -7,7 +7,7 @@ The brushes in this collection were all painstakingly... um, lovinging, made by 
 
 The brushes are available at multiple resolutions (1k, 2k, 4k). Beware that this kind of work is very GPU intensive, so make sure you import brushes that are appropriate for your hardware.
 
-![brush_image](/Texture-Brushes/Brush-Images/0.1k/1_a.png)
+![brush image](/Brush-Images/0.1k/1_a.png)
 
 
 
