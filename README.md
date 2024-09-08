@@ -9,7 +9,7 @@ The brushes are available at multiple resolutions (0.1k, 1k, 4k). Beware that th
 
 Here are some samples of the brushes you'll find...
 
-![brush image](/Brush-Images/0.1k/1_a.png) ![brush image](/Brush-Images/0.1k/1_b.png) ![brush image](/Brush-Images/0.1k/1_c.png)
+![brush image](/Brush-Images/0.1k/1_a.png) ![brush image](/Brush-Images/0.1k/14_c.png) ![brush image](/Brush-Images/0.1k/9_c.png)
 
 
 
