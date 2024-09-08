@@ -14,7 +14,7 @@ Here are some samples of the brushes you'll find...
 
 
 ## The Blender add-on
-I've also created an add-on for Blender that lets you import a bunch of images (like the texture brushes) as textures. I used the imfamous "import images as planes" add-on for reference.
+I've also created an add-on for Blender that lets you import a bunch of images (like the texture brushes) as textures. I used the imfamous "import images as planes" add-on (which is now the internal feature "Add -> Image -> Mesh Plane") for reference.
 
 https://docs.blender.org/manual/en/latest/addons/import_export/images_as_planes.html
 
@@ -23,3 +23,4 @@ The plugin included in this repo is "import images as textures" and has some pro
 
 The add-on is here:
 [Import Images as Textures add-on](Blender-Add-On/io_import_images_as_textures.py)
+
