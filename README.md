@@ -20,3 +20,6 @@ https://docs.blender.org/manual/en/latest/addons/import_export/images_as_planes.
 
 ### Images as Textures
 The plugin included in this repo is "import images as textures" and has some properties that are appropriate for using textures. You can use it to import the brushes from this collection and then use those brushes to do some awesome texture painting. 
+
+The add-on is here:
+[Import Images as Textures add-on](Blender-Add-On/io_import_images_as_textures.py)
